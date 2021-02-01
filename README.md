@@ -1,2 +1,2 @@
 # algorithmsAndDataStructures
-Algorithms and Data Structures based on Javascript
+Algorithms and Data Structures based on Python
